@@ -1,0 +1,6 @@
+cv:
+name:sanga sunguruma sanga
+age 21
+sex:male
+contact:0754239850
+email:noahzizuo@gmail.com
